@@ -54,7 +54,7 @@ using System.Runtime.CompilerServices;
 using FNLfloat = System.Single;
 //using FNLfloat = System.Double;
 
-namespace KYapp.Utility
+namespace KYapp.Utility.FastNoiseLite
 {
     public class FastNoiseLite
     {

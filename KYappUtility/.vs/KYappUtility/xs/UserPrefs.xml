@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{16EC214B-51D2-9FB5-63D0-2D01978DCB49}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FastNoiseLite.cs">
+    <Files>
+      <File FileName="Assets/SaveLoadUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets/FastNoiseLite.cs" Line="57" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KYappUtility" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SaveLoadUtility.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1678198-535b-4dc0-9ba5-b6e88f80a45a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

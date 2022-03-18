@@ -53,10 +53,11 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/StandardUtility.cs" />
-    <Compile Include="Assets/FastNoiseLite.cs" />
-    <Compile Include="Assets/SaveLoadUtility.cs" />
-    <Compile Include="Assets/KYAPPrefab.cs" />
+    <Compile Include="Assets/KYappUtility/StandardUtility.cs" />
+    <Compile Include="Assets/KYappUtility/FastNoiseLite.cs" />
+    <Compile Include="Assets/KYappUtility/SaveLoadUtility.cs" />
+    <Compile Include="Assets/KYappUtility/KYAPPrefab.cs" />
+    <Compile Include="Assets/KYappUtility/Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

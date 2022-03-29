@@ -9,7 +9,7 @@ namespace KYapp.Utility.KYAPPrefab
     /// 継承先のクラスは代表オブジェクト一つにアタッチする。
     /// 継承先クラスによって生成されたオブジェクトは全て、代表オブジェクトのパラメーター、代表オブジェクトの責任によって実行される。
     /// </summary>
-    public class KYAPPrefabManager : MonoBehaviour
+    public abstract class KYAPPrefabManager : MonoBehaviour
     {
         public GameObject Prefab;
         public List<GameObject> GameObjects;
@@ -40,14 +40,7 @@ namespace KYapp.Utility.KYAPPrefab
             }
         }
 
-
-        protected virtual void KYAPPrefabStart()
-        {
-
-        }
-        protected virtual void KYAPPrefabUpdate()
-        {
-
-        }
+        public abstract void KYAPPrefabStart();
+        public abstract void KYAPPrefabUpdate();
     }
 }

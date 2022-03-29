@@ -9,18 +9,17 @@ public class Test : KYAPPrefabManager
     void Start()
     {
         Prefab = new GameObject();
-        for (int i = 0; i < 100; i++)
+        for (int i = 0; i < 10000; i++)
         {
             KYAPPInstantiate();
         }
     }
+    public override void KYAPPrefabStart()
+    {
 
-    protected override void KYAPPrefabStart()
-    {
-        GameObjects[Index].transform.position += new Vector3(0.1f, 0.1f, 0.1f);
     }
-    protected override void KYAPPrefabUpdate()
+    public override void KYAPPrefabUpdate()
     {
-        GameObjects[Index].transform.position += new Vector3(0.1f, 0.1f, 0.1f);
+        MyGameObject.transform.position += new Vector3(0.1f, 0.1f, 0.1f);
     }
 }

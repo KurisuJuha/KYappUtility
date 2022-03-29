@@ -324,3 +324,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 721.686753 seconds.
+  path: Assets/KYappUtility/package.json
+  artifactKey: Guid(1d543945eef6f48c2aef4e4f1513221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KYappUtility/package.json using Guid(1d543945eef6f48c2aef4e4f1513221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b005cffd200c93b4aec6f3518ca9949') in 2.326867 seconds 
+  Import took 2.360654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.820689 seconds.
+  path: Assets/KYappUtility/package.json
+  artifactKey: Guid(1d543945eef6f48c2aef4e4f1513221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KYappUtility/package.json using Guid(1d543945eef6f48c2aef4e4f1513221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e19a74f8a2663f1d539bb71e5d7a1d') in 0.010417 seconds 
+  Import took 0.019520 seconds .
+

@@ -1,18 +1,7 @@
 {
-    "name": "com.kyapp.utility",
-    "displayName": "KYappUtility", 
-    "version": "1.0.0",               
-    "unity": "2020.3",
+    "name": "com.KYapp.Utility",
+    "version": "1.0.0",
+    "displayName": "KYappUtility",
     "description": "キャップのユーティリティパッケージ",
-    "author": {
-        "name": "kyapp",
-        "url": "https://github.com/kukiyomenaisapp"
-    },
-
-    "keywords": [
-        "Utlity"
-    ],
-
-    "dependencies": {
-    },
+    "unity": "2020.3"
 }

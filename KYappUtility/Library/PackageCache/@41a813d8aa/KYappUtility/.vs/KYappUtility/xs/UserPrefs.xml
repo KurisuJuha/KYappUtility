@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KYappUtility/package.json">
+    <Files>
+      <File FileName="Assets/KYappUtility/StandardUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets/KYappUtility/KYAPPrefab.cs" Line="16" Column="23" />
+      <File FileName="Assets/KYappUtility/SaveLoadUtility.cs" Line="19" Column="1" />
+      <File FileName="Assets/KYappUtility/Test.cs" Line="8" Column="16" />
+      <File FileName="Assets/KYappUtility/package.json" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KYappUtility" expanded="True" selected="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="KYappUtility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

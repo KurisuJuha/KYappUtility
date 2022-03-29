@@ -1,0 +1,2 @@
+/Users/programming/Documents/GitHub/KYappUtility/KYappUtility/obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache
+/Users/programming/Documents/GitHub/KYappUtility/KYappUtility/obj/Debug/UnityEngine.UI.csproj.CoreCompileInputs.cache

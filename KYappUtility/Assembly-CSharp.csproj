@@ -47,10 +47,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\KYappUtility\StandardUtility.cs" />
-     <Compile Include="Assets\KYappUtility\Test.cs" />
-     <Compile Include="Assets\KYappUtility\SaveLoadUtility.cs" />
      <Compile Include="Assets\KYappUtility\KYAPPrefab.cs" />
+     <Compile Include="Assets\KYappUtility\SaveLoadUtility.cs" />
+     <Compile Include="Assets\KYappUtility\StandardUtility.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

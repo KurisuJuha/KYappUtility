@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.kyapp.utility": "https://github.com/kukiyomenaisapp/KYappUtility.git?path=KYappUtility/Assets/KYappUtility",
     "com.unity.2d.animation": "5.0.8",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.1.1",

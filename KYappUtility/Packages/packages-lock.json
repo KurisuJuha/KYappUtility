@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.kyapp.utility": {
+      "version": "https://github.com/kukiyomenaisapp/KYappUtility.git?path=KYappUtility/Assets/KYappUtility",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "55d6e8396980c171ac0cf7441c11473aea2cf5b5"
+    },
     "com.unity.2d.animation": {
       "version": "5.0.8",
       "depth": 0,

@@ -5,21 +5,66 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637818240740000000
-    m_Hash: 1407836200
+      ticks: 637841546490000000
+    m_Hash: 2999797728
   m_LockFileStatus:
     m_FilePath: /Users/programming/Documents/GitHub/KYappUtility/KYappUtility/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637818240780000000
-    m_Hash: 1628627717
+      ticks: 637841546490000000
+    m_Hash: 2440862978
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.kyapp.utility@https://github.com/kukiyomenaisapp/KYappUtility.git?path=KYappUtility/Assets/KYappUtility
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 5
+      resolvedPath: /Users/programming/Documents/GitHub/KYappUtility/KYappUtility/Library/PackageCache/com.kyapp.utility@55d6e83969
+      assetPath: Packages/com.kyapp.utility
+      name: com.kyapp.utility
+      displayName: KYappUtility
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "\u30AD\u30E3\u30C3\u30D7\u306E\u30E6\u30FC\u30C6\u30A3\u30EA\u30C6\u30A3\u30D1\u30C3\u30B1\u30FC\u30B8"
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
     - packageId: com.unity.2d.animation@5.0.8
       testable: 0
       isDirectDependency: 1

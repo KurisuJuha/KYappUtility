@@ -1,0 +1,2 @@
+/Users/programming/Documents/GitHub/KYappUtility/KYappUtility/obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache
+/Users/programming/Documents/GitHub/KYappUtility/KYappUtility/obj/Debug/UnityEngine.TestRunner.csproj.CoreCompileInputs.cache

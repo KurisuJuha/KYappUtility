@@ -1,7 +1,0 @@
-{
-    "name": "com.kyapp.utility",
-    "version": "1.0.1",
-    "displayName": "KYappUtility",
-    "description": "キャップのユーティリティパッケージ",
-    "unity": "2020.3"
-}
